@@ -1,5 +1,6 @@
-# CS300
+# Data Structures and Algorithms course - 
 
+### The primary objectives of this course were the following: 
 
 The problem that we were solving throughout this semester was, how do I go about implementing various data structures to handle / parse, and then insert the formatted data into an appropriate structure. We were asked to repeat similar data processing exercises with several different data structures, and then to analyze the complexity and performance of those data structures. I approached the problem by digging as deep as I could into the materials, and getting as much of an understanding of each structure as I could.
 
